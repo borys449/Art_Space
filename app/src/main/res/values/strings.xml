@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digimon Gallery</string>
+
+    <string name="title_1">Agumon</string>
+    <string name="artist_1">Etapa: Child</string>
+    <string name="year_1">Rookie</string>
+
+    <string name="title_2">Greymon</string>
+    <string name="artist_2">Etapa: Adulto</string>
+    <string name="year_2">Champion</string>
+
+    <string name="title_3">MetalGreymon</string>
+    <string name="artist_3">Etapa: Perfect</string>
+    <string name="year_3">Ultimate</string>
+
+    <string name="previous">Anterior</string>
+    <string name="next">Siguiente</string>
+</resources>
